@@ -1,2 +1,2 @@
-# desafio-landing-page
-Desafio de desenvolvimento de landing page DNC
+Link do site disponibilizado :
+Link da Planilha de registro de informações : https://api.sheetmonkey.io/form/euJQXAD3kWcFSRDVwAbFkH
